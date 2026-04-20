@@ -1,0 +1,10 @@
+a=10
+b=19
+c=2+3j
+d="Hello"
+e=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
